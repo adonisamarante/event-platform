@@ -12,4 +12,5 @@ Lesson 1
 
 - yarn add tailwindcss postcss autoprefixer -D
 - npx tailwindcss init -p
+- yarn add @apollo/client graphql
 -
